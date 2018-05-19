@@ -8,8 +8,8 @@
 # Site settings
 title: Hope
 brief-intro: Back-end Developer
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://dotrung.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://blog.nohope.xyz" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
